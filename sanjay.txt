@@ -3,3 +3,8 @@ hi
 My name is Sanjay
 
 I'm learning Linux
+
+im learning git and git hub
+
+im learning  python
+
