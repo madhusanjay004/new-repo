@@ -4,7 +4,10 @@ My name is Sanjay
 
 I'm learning Linux
 
-im learning git and git hub
+I'm learning git and git hub
 
-im learning  python
+I'm learning  python
 
+I'm learning sql
+
+I'm learning power bi
