@@ -8,3 +8,6 @@ im learning git and git hub
 
 im learning  python
 
+im learning sql
+
+im learning powerbi
